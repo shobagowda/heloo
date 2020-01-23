@@ -1,0 +1,23 @@
+{
+    "createRecipientListonline": {
+        "listName": "MailingListOne",
+        "mailingName": "Thimmaraju",
+        "mailingAddress1": "FAI",
+        "mailingAddress2": "Indiranagar",
+        "mailingCity": "Bangalore",
+        "mailingState": "NY",
+        "mailingZip": "10005"
+    },
+    "createRecipientListonlineEmail": {
+        "firstName" :"soumya",
+        "lastName": "c",
+        "email": "ssoumyac@firstam.com",
+        "phone": "9999999999",
+        "company": "FAI",
+        "address": "Bangalore",
+        "city":"Indiranagar",
+        "state": "NY",
+        "zip": "10005"
+    }
+   
+}

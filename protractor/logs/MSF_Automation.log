@@ -1,0 +1,12 @@
+[22-10-2019 10:58:17] [INFO] - Suite Started: Create a static product and verify Newly added, Recently added, featured product for which user has access  and Verify all Category with Products are visible to User under Browse, in footer, in search
+[22-10-2019 10:58:17] [INFO] - User Logging into End User Application
+[22-10-2019 10:58:17] [INFO] -  Test Ended: Verify creating a Static product in Admin and a Static product in Admin and verify for the newly added product user has access 
+[22-10-2019 11:04:18] [INFO] -  Test Started: Verify  the recently ordered products for which user has access and also check for 20 recently ordered products 
+[22-10-2019 11:04:18] [INFO] -  Test Ended: Verify  the recently ordered products for which user has access and also check for 20 recently ordered products 
+[22-10-2019 11:04:18] [INFO] - User Logging into End User Application
+[22-10-2019 11:05:20] [INFO] - User Logging into End User Application
+[22-10-2019 11:05:20] [INFO] -  Test Started: Verify the featured products for which user has access and also check for 20 recently ordered products 
+[22-10-2019 11:05:20] [INFO] -  Test Ended: Verify the featured products for which user has access and also check for 20 recently ordered products 
+[22-10-2019 11:06:20] [INFO] -  Test Started: Verify all Category with Products are visible to User under Browse, in footer, in search 
+[22-10-2019 11:06:20] [INFO] - User Logging into End User Application
+[22-10-2019 11:06:20] [INFO] -  Test Ended: Verify all Category with Products are visible to User under Browse, in footer, in search 

@@ -1,0 +1,99 @@
+{
+    "utilData": {
+        "adminUrl": "http://faiblr04s1313:1111",
+        "endUserUrl": "http://faiblr04s1313:3000/",        
+        "userName": "shobakm@firstam.com",
+        "password": "caveo1234@"
+    },
+    "profile": {
+        "profileNameInput": "test profile",
+        "fromValue": 100,
+        "fixedCost": "123",
+        "unitCost": "567"
+    },
+    "user": {
+        "fname": "userfirstname",
+        "lname": "userlastname",
+        "emailfirstpart": "faiUserEmailabc",
+        "emailsecondpart": "@gmail.com",
+        "pass": "123456",
+        "firstname":"Soumya",
+        "lastname":"CS",
+        "adUseremailId":"ssoumyac@firstam.com",
+        "Edittedname":"faiuser"
+    },
+    "auto":{
+     "autostorename":"TestStore_18"
+    },
+    "store": {
+        "storename": "TestStore10",
+        "displaynamebox": "test9",
+        "pickupAddisplayname": "testDeliveryAddress",
+        "pickupAdpersonname": "MSF Executive",
+        "pickupAdaddress1": "Indiranagar",
+        "pickupAdcity": "Bangalore",
+        "pickupAdstatecode": "12346",
+        "pickupAdCountrycode": "2346",
+        "pickupAdZipcode": "346765",
+        "pickupAdPhone": "3467657666",
+		"domianName":"automation1.cpt.firstam.com",
+        "customHeader":"content/edu.html"										   
+    },
+    "staticProduct": {
+        "productName": "Static Product",
+        "productDimenssion": "20x30"
+    },
+    "dynamicProduct": {
+        "productType": "Dynamic",
+        "productName": "MSFdynamicproductsecond",
+        "productSize": "12.66*9.84",
+        "selectAccount": "faPrint",
+        "selectCampaign": "faPrint",
+        "selectDocument": "Black Swirl Property Flyer",
+        "thumbnailImage": "Upload Thumbnails",
+        "availableDialsSelect": "Variables",
+        "fixedMarkup": "99",
+        "markUpPercentage": "20"
+    },
+    "dynamicProductReg": {
+        "productName": "dynamicProductAdors",
+        "selectAccount": "FAINTERNAL",
+        "selectCampaign": "FAINTERNAL",
+        "selectDocument": "1036 Classes - Editable Fields"
+        
+    },
+    "emailProduct": {
+        "productName": "Email Product"
+    },
+    "uploadFileProduct": {
+        "productType": "Upload File",
+        "productName": "Rajuuploadproduct",
+        "productSize": "12.66*9.84",
+        "maxpagesToUpload": 24,
+        "displayNameProperty": "Paper size",
+        "inputControl": "Dropdown List",
+        "textValuelist": "12.66*9.84"
+    },
+   "userRegression":{
+          
+    "edittedname":"faiuser",
+    "adUser":"Soumya C"
+    },
+    "groups":{
+        "groupName":"QA",
+        "groupDesc":"Testing",
+        "adGroupName":"INTL-DL-TestDL1",
+        "newGroupname":"Faigroup",
+        "newGroupDesc":"abcd",
+        "createdGroup":"qq",
+        "description":"Automation",
+        "user1":"shobakm@firstam.com",
+        "user2":"ssoumyac@firstam.com"
+    },
+    "order":
+    {
+        "orderNum":"2222"
+    }
+
+    
+}
